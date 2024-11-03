@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Для запуска программы необходимо установить библиотеку MathNet.Numerics
 using System.Linq;
 using System.Collections.Generic;
 using MathNet.Numerics.LinearAlgebra;
